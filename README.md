@@ -18,7 +18,7 @@ npm install
 ```
 Quando finalizado
 ```
-npm start
+npm dev
 ```
 ```
 Login: systemAdmin@mail.com
