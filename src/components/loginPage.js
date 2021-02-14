@@ -42,6 +42,7 @@ const LoginPage = (props) => {
     }
   }
   function VerifyLogin() {
+    //Essa função seria feita dentro do backend de maneira classica... mas eu não consegui configurar o endpoint do jeito que eu queria naquele mock... enfim...
     if (props.response.login.hasOwnProperty('response')) {
       users = props.response.login.response;
       users.map(user => {
