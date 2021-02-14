@@ -20,7 +20,10 @@ Quando finalizado
 ```
 npm start
 ```
-
+```
+Login: systemAdmin@mail.com
+Senha: Admin1234@
+```
 ## Autor
 
 * **Caio Victor da Silva Viga** - *Mantainer* - [iVega123](https://github.com/iVega123)

@@ -183,7 +183,7 @@ export default makeStyles(theme => ({
     padding: '0 30px',
     boxShadow: '0px 10px 25px #CF99DB !important',
     [theme.breakpoints.down("xs")]: {
-      boxShadow: "none"
+      boxShadow: "none !important"
     },
   },
   formButtons: {
